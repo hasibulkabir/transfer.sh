@@ -1,1 +1,1 @@
-web: cmd/cmd.go
+web: bin/transfer.sh
